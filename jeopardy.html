@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Jeopardy</title>
+    <link rel="stylesheet" type="text/css" href="jeopardy.css">
+</head>
+<body> 
+    <input id="source" type="file"/>">
+    <div id="home" > </div>
+    <div id="game"> </div>
+    <div id="inquiry"></div>
+    <div id="answer"></div>
+    <script type="module" src="jeopardy.js"> </script>
+    <audio id="homeSound" loop>
+        <source src="Jeopardy-theme-song.mp3" type="audio/mpeg">
+        Your browser does not support the audio element.
+    </audio>
+    <audio id="thinking">
+        <source src="Jeopardy-think-music.mp3" type="audio/mpeg">
+        Your browser does not support the audio element.
+    </audio>
+    <audio id="timeup">
+        <source src="Jeopardy-timeup.mp3" type="audio/mpeg">
+        Your browser does not support the audio element.
+    </audio>
+    
+    <br>
+    <button id = "reset-btn" onclick = "setHome()"> RESET</button>
+</body>
+</html>

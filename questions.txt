@@ -1,0 +1,182 @@
+[
+    {
+        "name" : "Gaming",
+        "questions": [
+            {
+                "question": "who is the protagonist in the series 'The Legend of Zelda ",
+                "answer": "Link",
+                "price": 100
+            },
+            {
+                "question": "what is Mario's brother's name",
+                "answer": "Luigi",
+                "price": 200
+            },
+            {
+                "question": "what are the names of the protagonist of 'Genshin Impact'",
+                "answer": "Aether and Lumine",
+                "price": 300
+            },
+            {
+                "question": "What is the best-selling video game of all time",
+                "answer": "Minecraft",
+                "price": 400
+            },
+            {
+                "question": "What is the name of the main character in the game ‘Half-Life’",
+                "answer": "Gordon Freeman",
+                "price": 500
+            }
+        ]
+    },
+    {
+        "name" : "Languages",
+        "questions": [
+            {
+                "question": "What is the english translation of the french word au-revoir",
+                "answer": "Goodbye",
+                "price": 100
+            },
+            {
+                "question": "News question 2",
+                "answer": "News answer 2",
+                "price": 200
+            },
+            {
+                "question": "News question 3",
+                "answer": "News answer 3",
+                "price": 300
+            },
+            {
+                "question": "What is the longuest word in the english dictionary",
+                "answer": "pneumonoultramicroscopicsilicovolcanoconiosis",
+                "price": 400
+            },
+            {
+                "question": "News question 5",
+                "answer": "News answer 5",
+                "price": 500
+            }
+        ]
+    },
+    {
+        "name" : "Geography",
+        "questions": [
+            {
+                "question": "Which country has the most lakes",
+                "answer": "Canada",
+                "price": 100
+            },
+            {
+                "question": "In what contry is the 'Statue of Unity' located",
+                "answer": "India",
+                "price": 200
+            },
+            {
+                "question": "Which country borders the secong most nations",
+                "answer": "Brazil, 10",
+                "price": 300
+            },
+            {
+                "question": "How many countries have us military bases",
+                "answer": "85",
+                "price": 400
+            },
+            {
+                "question": "How many countries are landlocked",
+                "answer": "44",
+                "price": 500
+            }
+        ]
+    },
+    {
+        "name" : "Media",
+        "questions": [
+            {
+                "question": "Media question 1",
+                "answer": "Media answer 1",
+                "price": 100
+            },
+            {
+                "question": "Media question 2",
+                "answer": "Media answer 2",
+                "price": 200
+            },
+            {
+                "question": "Media question 3",
+                "answer": "Media answer 3",
+                "price": 300
+            },
+            {
+                "question": "Media question 4",
+                "answer": "Media answer 4",
+                "price": 400
+            },
+            {
+                "question": "Media question 5",
+                "answer": "Media answer 5",
+                "price": 500
+            }
+        ]
+    },
+    {
+        "name" : "General",
+        "questions": [
+            {
+                "question": "which star is the closest to our planet",
+                "answer": "The sun",
+                "price": 100
+            },
+            {
+                "question": "How many colours are in a rainbow",
+                "answer": "7",
+                "price": 200
+            },
+            {
+                "question": "What is the most abundant gas in our atmospher",
+                "answer": "Hydrogen",
+                "price": 300
+            },
+            {
+                "question": "Technology question 4",
+                "answer": "Technology answer 4",
+                "price": 400
+            },
+            {
+                "question": "Technology question 5",
+                "answer": "Technology answer 5",
+                "price": 500
+            }
+        ]
+    },
+    {
+        "name" : "History",
+        "questions": [
+            {
+                "question": "What year did 'World War 2' end",
+                "answer": "1945",
+                "price": 100
+            },
+            {
+                "question": "Who was the first human in space",
+                "answer": "Yuri Gagarin",
+                "price": 200
+            },
+            {
+                "question": "How long did the '100 year War' last",
+                "answer": "116 years",
+                "price": 300
+            },
+            {
+                "question": "What was the family name of the Russian rulers from the 17th century until the 1917 revolution?",
+                "answer": "Romanov",
+                "price": 400
+            },
+            {
+                "question": "Who painted the mural of 'The Last Supper'",
+                "answer": "Leonardo da Vinci",
+                "price": 500
+            }
+        ]
+    }
+]
